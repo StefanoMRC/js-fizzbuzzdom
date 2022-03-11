@@ -1,0 +1,19 @@
+.bg_fizzbuzz{
+    background-color: rgba(240,70,111,255);
+}
+.bg_buzz{
+    background-color: rgba(255,210,102,255);
+}
+.bg_fizz{
+    background-color: rgba(10,213,160,255);
+}
+.bg_pers{
+    background-color: rgba(19,137,178,255);
+}
+.bg_body{
+    background-color: rgba(8,59,76,255);
+}
+.size{
+    width: 170px;
+    height: 170px;
+}
